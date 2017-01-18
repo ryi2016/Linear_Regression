@@ -1,0 +1,1392 @@
+<?xml version="1.0"?>
+<AlteryxDocument yxmdVer="11.0">
+  <Nodes>
+    <Node ToolID="2">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.TextInput.TextInput">
+        <Position x="54" y="126" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <NumRows value="100" />
+          <Fields>
+            <Field name="Week" />
+            <Field name="Month" />
+            <Field name="First_Week" />
+            <Field name="Easter" />
+            <Field name="Cases" />
+            <Field name="Egg_Pr" />
+            <Field name="Beef_Pr" />
+            <Field name="Pork_Pr" />
+            <Field name="Chicken_Pr" />
+            <Field name="Cereal_Pr" />
+          </Fields>
+          <Data>
+            <r>
+              <c>1</c>
+              <c>July</c>
+              <c>No</c>
+              <c>Non Easter</c>
+              <c>96343</c>
+              <c>90.42</c>
+              <c>142.89</c>
+              <c>128.04</c>
+              <c>75.42</c>
+              <c>107.51</c>
+            </r>
+            <r>
+              <c>2</c>
+              <c>July</c>
+              <c>No</c>
+              <c>Non Easter</c>
+              <c>96345</c>
+              <c>89.33</c>
+              <c>140.23</c>
+              <c>131.52</c>
+              <c>72.85</c>
+              <c>109.96</c>
+            </r>
+            <r>
+              <c>3</c>
+              <c>July</c>
+              <c>No</c>
+              <c>Non Easter</c>
+              <c>96928</c>
+              <c>89.89</c>
+              <c>145.85</c>
+              <c>132.73</c>
+              <c>69.94</c>
+              <c>109.85</c>
+            </r>
+            <r>
+              <c>4</c>
+              <c>August</c>
+              <c>No</c>
+              <c>Non Easter</c>
+              <c>93519</c>
+              <c>90.71</c>
+              <c>146.64</c>
+              <c>128.48</c>
+              <c>75.58</c>
+              <c>111.89</c>
+            </r>
+            <r>
+              <c>5</c>
+              <c>August</c>
+              <c>Yes</c>
+              <c>Non Easter</c>
+              <c>99032</c>
+              <c>85.99</c>
+              <c>141.76</c>
+              <c>132.2</c>
+              <c>71.88</c>
+              <c>110.61</c>
+            </r>
+            <r>
+              <c>6</c>
+              <c>August</c>
+              <c>No</c>
+              <c>Non Easter</c>
+              <c>91539</c>
+              <c>91.83</c>
+              <c>144.74</c>
+              <c>133.21</c>
+              <c>70</c>
+              <c>108.47</c>
+            </r>
+            <r>
+              <c>7</c>
+              <c>August</c>
+              <c>No</c>
+              <c>Non Easter</c>
+              <c>89969</c>
+              <c>87.29</c>
+              <c>141.93</c>
+              <c>137.73</c>
+              <c>70.31</c>
+              <c>112.24</c>
+            </r>
+            <r>
+              <c>8</c>
+              <c>August</c>
+              <c>No</c>
+              <c>Non Easter</c>
+              <c>90859</c>
+              <c>96.36</c>
+              <c>148.25</c>
+              <c>139.7</c>
+              <c>72.2</c>
+              <c>108.75</c>
+            </r>
+            <r>
+              <c>9</c>
+              <c>September</c>
+              <c>Yes</c>
+              <c>Non Easter</c>
+              <c>99697</c>
+              <c>99.71</c>
+              <c>147.24</c>
+              <c>137.72</c>
+              <c>67.5</c>
+              <c>110.83</c>
+            </r>
+            <r>
+              <c>10</c>
+              <c>September</c>
+              <c>No</c>
+              <c>Non Easter</c>
+              <c>88350</c>
+              <c>99.38</c>
+              <c>150.39</c>
+              <c>138.59</c>
+              <c>68.04</c>
+              <c>112.37</c>
+            </r>
+            <r>
+              <c>11</c>
+              <c>September</c>
+              <c>No</c>
+              <c>Non Easter</c>
+              <c>100383</c>
+              <c>97.53</c>
+              <c>139.54</c>
+              <c>149.04</c>
+              <c>67.16</c>
+              <c>110.61</c>
+            </r>
+            <r>
+              <c>12</c>
+              <c>September</c>
+              <c>No</c>
+              <c>Non Easter</c>
+              <c>94415</c>
+              <c>100.77</c>
+              <c>154.68</c>
+              <c>140.99</c>
+              <c>66</c>
+              <c>110.13</c>
+            </r>
+            <r>
+              <c>13</c>
+              <c>October</c>
+              <c>Yes</c>
+              <c>Non Easter</c>
+              <c>91813</c>
+              <c>98</c>
+              <c>147.61</c>
+              <c>139.49</c>
+              <c>65.8</c>
+              <c>111.64</c>
+            </r>
+            <r>
+              <c>14</c>
+              <c>October</c>
+              <c>No</c>
+              <c>Non Easter</c>
+              <c>100466</c>
+              <c>99.89</c>
+              <c>145.57</c>
+              <c>144.34</c>
+              <c>65.35</c>
+              <c>109.33</c>
+            </r>
+            <r>
+              <c>15</c>
+              <c>October</c>
+              <c>No</c>
+              <c>Non Easter</c>
+              <c>96783</c>
+              <c>101.26</c>
+              <c>150.88</c>
+              <c>146.88</c>
+              <c>68.88</c>
+              <c>107.12</c>
+            </r>
+            <r>
+              <c>16</c>
+              <c>October</c>
+              <c>No</c>
+              <c>Non Easter</c>
+              <c>91008</c>
+              <c>101.26</c>
+              <c>145.25</c>
+              <c>149.83</c>
+              <c>67.28</c>
+              <c>110.34</c>
+            </r>
+            <r>
+              <c>17</c>
+              <c>October</c>
+              <c>No</c>
+              <c>Non Easter</c>
+              <c>100324</c>
+              <c>100.28</c>
+              <c>141.26</c>
+              <c>135.06</c>
+              <c>60.95</c>
+              <c>102.35</c>
+            </r>
+            <r>
+              <c>18</c>
+              <c>November</c>
+              <c>Yes</c>
+              <c>Non Easter</c>
+              <c>106628</c>
+              <c>100.69</c>
+              <c>138.8</c>
+              <c>137.97</c>
+              <c>65.58</c>
+              <c>111.52</c>
+            </r>
+            <r>
+              <c>19</c>
+              <c>November</c>
+              <c>No</c>
+              <c>Non Easter</c>
+              <c>98892</c>
+              <c>105.16</c>
+              <c>137.12</c>
+              <c>134.96</c>
+              <c>65.98</c>
+              <c>112.19</c>
+            </r>
+            <r>
+              <c>20</c>
+              <c>November</c>
+              <c>No</c>
+              <c>Non Easter</c>
+              <c>98252</c>
+              <c>109.55</c>
+              <c>149.22</c>
+              <c>137.9</c>
+              <c>68.2</c>
+              <c>111.84</c>
+            </r>
+            <r>
+              <c>21</c>
+              <c>November</c>
+              <c>No</c>
+              <c>Non Easter</c>
+              <c>102944</c>
+              <c>107.29</c>
+              <c>150.05</c>
+              <c>145.61</c>
+              <c>71.32</c>
+              <c>115.37</c>
+            </r>
+            <r>
+              <c>22</c>
+              <c>December</c>
+              <c>Yes</c>
+              <c>Non Easter</c>
+              <c>97284</c>
+              <c>108.4</c>
+              <c>149.46</c>
+              <c>135.36</c>
+              <c>67.46</c>
+              <c>115.93</c>
+            </r>
+            <r>
+              <c>23</c>
+              <c>December</c>
+              <c>No</c>
+              <c>Non Easter</c>
+              <c>110057</c>
+              <c>105.31</c>
+              <c>148.34</c>
+              <c>137.15</c>
+              <c>67.87</c>
+              <c>116.83</c>
+            </r>
+            <r>
+              <c>24</c>
+              <c>December</c>
+              <c>No</c>
+              <c>Non Easter</c>
+              <c>107742</c>
+              <c>102.09</c>
+              <c>152.24</c>
+              <c>134.32</c>
+              <c>66.42</c>
+              <c>118.19</c>
+            </r>
+            <r>
+              <c>25</c>
+              <c>December</c>
+              <c>No</c>
+              <c>Non Easter</c>
+              <c>107924</c>
+              <c>101.12</c>
+              <c>156.99</c>
+              <c>135</c>
+              <c>67</c>
+              <c>114.77</c>
+            </r>
+            <r>
+              <c>26</c>
+              <c>January</c>
+              <c>No</c>
+              <c>Non Easter</c>
+              <c>109828</c>
+              <c>98.57</c>
+              <c>155.18</c>
+              <c>136.84</c>
+              <c>63.74</c>
+              <c>116.83</c>
+            </r>
+            <r>
+              <c>27</c>
+              <c>January</c>
+              <c>Yes</c>
+              <c>Non Easter</c>
+              <c>127887</c>
+              <c>88.52</c>
+              <c>142.96</c>
+              <c>132.53</c>
+              <c>69.5</c>
+              <c>116.01</c>
+            </r>
+            <r>
+              <c>28</c>
+              <c>January</c>
+              <c>No</c>
+              <c>Non Easter</c>
+              <c>109332</c>
+              <c>90.28</c>
+              <c>146.25</c>
+              <c>140.15</c>
+              <c>65.61</c>
+              <c>117.74</c>
+            </r>
+            <r>
+              <c>29</c>
+              <c>January</c>
+              <c>No</c>
+              <c>Non Easter</c>
+              <c>92530</c>
+              <c>97.1</c>
+              <c>144.65</c>
+              <c>138.73</c>
+              <c>74.08</c>
+              <c>117.05</c>
+            </r>
+            <r>
+              <c>30</c>
+              <c>January</c>
+              <c>No</c>
+              <c>Non Easter</c>
+              <c>92635</c>
+              <c>107.63</c>
+              <c>152.15</c>
+              <c>139.53</c>
+              <c>73.21</c>
+              <c>116.01</c>
+            </r>
+            <r>
+              <c>31</c>
+              <c>February</c>
+              <c>Yes</c>
+              <c>Non Easter</c>
+              <c>102287</c>
+              <c>108.7</c>
+              <c>143.63</c>
+              <c>134.73</c>
+              <c>59.65</c>
+              <c>116.47</c>
+            </r>
+            <r>
+              <c>32</c>
+              <c>February</c>
+              <c>No</c>
+              <c>Non Easter</c>
+              <c>104260</c>
+              <c>104.4</c>
+              <c>147.69</c>
+              <c>153.14</c>
+              <c>68.05</c>
+              <c>117.4</c>
+            </r>
+            <r>
+              <c>33</c>
+              <c>February</c>
+              <c>No</c>
+              <c>Non Easter</c>
+              <c>104974</c>
+              <c>95.86</c>
+              <c>149.23</c>
+              <c>156.18</c>
+              <c>73.75</c>
+              <c>113.78</c>
+            </r>
+            <r>
+              <c>34</c>
+              <c>February</c>
+              <c>No</c>
+              <c>Non Easter</c>
+              <c>109026</c>
+              <c>93.06</c>
+              <c>156.13</c>
+              <c>159.86</c>
+              <c>66.88</c>
+              <c>116.74</c>
+            </r>
+            <r>
+              <c>35</c>
+              <c>March</c>
+              <c>Yes</c>
+              <c>Non Easter</c>
+              <c>116909</c>
+              <c>98.84</c>
+              <c>144.84</c>
+              <c>155.53</c>
+              <c>63.8</c>
+              <c>110.56</c>
+            </r>
+            <r>
+              <c>36</c>
+              <c>March</c>
+              <c>No</c>
+              <c>Non Easter</c>
+              <c>92992</c>
+              <c>102.15</c>
+              <c>142.65</c>
+              <c>162.39</c>
+              <c>69.6</c>
+              <c>117.22</c>
+            </r>
+            <r>
+              <c>37</c>
+              <c>March</c>
+              <c>No</c>
+              <c>Non Easter</c>
+              <c>97780</c>
+              <c>102.43</c>
+              <c>144.98</c>
+              <c>144.02</c>
+              <c>68.85</c>
+              <c>116.49</c>
+            </r>
+            <r>
+              <c>38</c>
+              <c>March</c>
+              <c>No</c>
+              <c>Non Easter</c>
+              <c>103036</c>
+              <c>105.73</c>
+              <c>154.54</c>
+              <c>146.23</c>
+              <c>64.39</c>
+              <c>108.78</c>
+            </r>
+            <r>
+              <c>39</c>
+              <c>April</c>
+              <c>Yes</c>
+              <c>Pre Easter</c>
+              <c>142694</c>
+              <c>96.76</c>
+              <c>153.41</c>
+              <c>156.78</c>
+              <c>57.79</c>
+              <c>116.49</c>
+            </r>
+            <r>
+              <c>40</c>
+              <c>April</c>
+              <c>No</c>
+              <c>Easter</c>
+              <c>188861</c>
+              <c>77.43</c>
+              <c>151.9</c>
+              <c>154.92</c>
+              <c>66.01</c>
+              <c>110.79</c>
+            </r>
+            <r>
+              <c>41</c>
+              <c>April</c>
+              <c>No</c>
+              <c>Post Easter</c>
+              <c>79869</c>
+              <c>102.11</c>
+              <c>152.48</c>
+              <c>145.24</c>
+              <c>68.38</c>
+              <c>121.69</c>
+            </r>
+            <r>
+              <c>42</c>
+              <c>April</c>
+              <c>No</c>
+              <c>Non Easter</c>
+              <c>92330</c>
+              <c>96.36</c>
+              <c>152.96</c>
+              <c>165.3</c>
+              <c>72.6</c>
+              <c>116.94</c>
+            </r>
+            <r>
+              <c>43</c>
+              <c>May</c>
+              <c>No</c>
+              <c>Non Easter</c>
+              <c>92606</c>
+              <c>89.87</c>
+              <c>157.51</c>
+              <c>155.8</c>
+              <c>62.9</c>
+              <c>120.54</c>
+            </r>
+            <r>
+              <c>44</c>
+              <c>May</c>
+              <c>Yes</c>
+              <c>Non Easter</c>
+              <c>101070</c>
+              <c>84.83</c>
+              <c>148.56</c>
+              <c>155.46</c>
+              <c>67.89</c>
+              <c>119.33</c>
+            </r>
+            <r>
+              <c>45</c>
+              <c>May</c>
+              <c>No</c>
+              <c>Non Easter</c>
+              <c>96028</c>
+              <c>85.16</c>
+              <c>159.29</c>
+              <c>161.57</c>
+              <c>63.9</c>
+              <c>116.18</c>
+            </r>
+            <r>
+              <c>46</c>
+              <c>May</c>
+              <c>No</c>
+              <c>Non Easter</c>
+              <c>100877</c>
+              <c>83.04</c>
+              <c>152.38</c>
+              <c>165.64</c>
+              <c>70.16</c>
+              <c>118.43</c>
+            </r>
+            <r>
+              <c>47</c>
+              <c>May</c>
+              <c>No</c>
+              <c>Non Easter</c>
+              <c>105457</c>
+              <c>80.14</c>
+              <c>158.01</c>
+              <c>170.01</c>
+              <c>67.04</c>
+              <c>117.39</c>
+            </r>
+            <r>
+              <c>48</c>
+              <c>June</c>
+              <c>Yes</c>
+              <c>Non Easter</c>
+              <c>100092</c>
+              <c>84.74</c>
+              <c>148.64</c>
+              <c>171.18</c>
+              <c>69.84</c>
+              <c>116.65</c>
+            </r>
+            <r>
+              <c>49</c>
+              <c>June</c>
+              <c>No</c>
+              <c>Non Easter</c>
+              <c>103968</c>
+              <c>85.92</c>
+              <c>156.95</c>
+              <c>163.64</c>
+              <c>68.89</c>
+              <c>117.78</c>
+            </r>
+            <r>
+              <c>50</c>
+              <c>June</c>
+              <c>No</c>
+              <c>Non Easter</c>
+              <c>106009</c>
+              <c>79.86</c>
+              <c>161.19</c>
+              <c>176.72</c>
+              <c>73.82</c>
+              <c>117.07</c>
+            </r>
+            <r>
+              <c>51</c>
+              <c>June</c>
+              <c>No</c>
+              <c>Non Easter</c>
+              <c>99802</c>
+              <c>86.79</c>
+              <c>166.48</c>
+              <c>165.02</c>
+              <c>71.87</c>
+              <c>116.18</c>
+            </r>
+            <r>
+              <c>52</c>
+              <c>July</c>
+              <c>Yes</c>
+              <c>Non Easter</c>
+              <c>109184</c>
+              <c>87.75</c>
+              <c>159.5</c>
+              <c>169.31</c>
+              <c>74.53</c>
+              <c>117.71</c>
+            </r>
+            <r>
+              <c>53</c>
+              <c>July</c>
+              <c>No</c>
+              <c>Non Easter</c>
+              <c>97064</c>
+              <c>86.45</c>
+              <c>151.52</c>
+              <c>173.86</c>
+              <c>76.53</c>
+              <c>116.87</c>
+            </r>
+            <r>
+              <c>54</c>
+              <c>July</c>
+              <c>No</c>
+              <c>Non Easter</c>
+              <c>99602</c>
+              <c>89.69</c>
+              <c>159.03</c>
+              <c>171.34</c>
+              <c>74.93</c>
+              <c>115.83</c>
+            </r>
+            <r>
+              <c>55</c>
+              <c>July</c>
+              <c>No</c>
+              <c>Non Easter</c>
+              <c>102866</c>
+              <c>82.38</c>
+              <c>158.09</c>
+              <c>180.71</c>
+              <c>65.59</c>
+              <c>117.79</c>
+            </r>
+            <r>
+              <c>56</c>
+              <c>July</c>
+              <c>No</c>
+              <c>Non Easter</c>
+              <c>95691</c>
+              <c>78.09</c>
+              <c>159.34</c>
+              <c>173.46</c>
+              <c>68.22</c>
+              <c>121.14</c>
+            </r>
+            <r>
+              <c>57</c>
+              <c>August</c>
+              <c>Yes</c>
+              <c>Non Easter</c>
+              <c>108220</c>
+              <c>82.43</c>
+              <c>160.57</c>
+              <c>179.21</c>
+              <c>72.58</c>
+              <c>116.72</c>
+            </r>
+            <r>
+              <c>58</c>
+              <c>August</c>
+              <c>No</c>
+              <c>Non Easter</c>
+              <c>97222</c>
+              <c>76.25</c>
+              <c>163.49</c>
+              <c>185.59</c>
+              <c>68.42</c>
+              <c>120.71</c>
+            </r>
+            <r>
+              <c>59</c>
+              <c>August</c>
+              <c>No</c>
+              <c>Non Easter</c>
+              <c>95387</c>
+              <c>82.14</c>
+              <c>154.92</c>
+              <c>184.4</c>
+              <c>67.53</c>
+              <c>119.92</c>
+            </r>
+            <r>
+              <c>60</c>
+              <c>August</c>
+              <c>No</c>
+              <c>Non Easter</c>
+              <c>96226</c>
+              <c>89.27</c>
+              <c>151.65</c>
+              <c>184.67</c>
+              <c>71.44</c>
+              <c>116.56</c>
+            </r>
+            <r>
+              <c>61</c>
+              <c>September</c>
+              <c>Yes</c>
+              <c>Non Easter</c>
+              <c>104731</c>
+              <c>92.51</c>
+              <c>140.42</c>
+              <c>191.3</c>
+              <c>63.56</c>
+              <c>119.45</c>
+            </r>
+            <r>
+              <c>62</c>
+              <c>September</c>
+              <c>No</c>
+              <c>Non Easter</c>
+              <c>98595</c>
+              <c>92.33</c>
+              <c>150.59</c>
+              <c>187.46</c>
+              <c>65.58</c>
+              <c>117.2</c>
+            </r>
+            <r>
+              <c>63</c>
+              <c>September</c>
+              <c>No</c>
+              <c>Non Easter</c>
+              <c>103485</c>
+              <c>92.68</c>
+              <c>148.41</c>
+              <c>180.66</c>
+              <c>66.55</c>
+              <c>117.2</c>
+            </r>
+            <r>
+              <c>64</c>
+              <c>September</c>
+              <c>No</c>
+              <c>Non Easter</c>
+              <c>94026</c>
+              <c>93.68</c>
+              <c>136.37</c>
+              <c>185.59</c>
+              <c>58.31</c>
+              <c>110.62</c>
+            </r>
+            <r>
+              <c>65</c>
+              <c>October</c>
+              <c>Yes</c>
+              <c>Non Easter</c>
+              <c>94682</c>
+              <c>95.27</c>
+              <c>137.41</c>
+              <c>197.84</c>
+              <c>58.75</c>
+              <c>117.99</c>
+            </r>
+            <r>
+              <c>66</c>
+              <c>October</c>
+              <c>No</c>
+              <c>Non Easter</c>
+              <c>91867</c>
+              <c>93.98</c>
+              <c>133.58</c>
+              <c>176.64</c>
+              <c>65.45</c>
+              <c>114.68</c>
+            </r>
+            <r>
+              <c>67</c>
+              <c>October</c>
+              <c>No</c>
+              <c>Non Easter</c>
+              <c>101796</c>
+              <c>93.06</c>
+              <c>133.53</c>
+              <c>176.51</c>
+              <c>54.87</c>
+              <c>116.92</c>
+            </r>
+            <r>
+              <c>68</c>
+              <c>October</c>
+              <c>No</c>
+              <c>Non Easter</c>
+              <c>102976</c>
+              <c>90.59</c>
+              <c>152.04</c>
+              <c>173.78</c>
+              <c>60.93</c>
+              <c>113.86</c>
+            </r>
+            <r>
+              <c>69</c>
+              <c>October</c>
+              <c>No</c>
+              <c>Non Easter</c>
+              <c>98591</c>
+              <c>89.52</c>
+              <c>147.65</c>
+              <c>169.73</c>
+              <c>61.38</c>
+              <c>117.45</c>
+            </r>
+            <r>
+              <c>70</c>
+              <c>November</c>
+              <c>Yes</c>
+              <c>Non Easter</c>
+              <c>103798</c>
+              <c>84.59</c>
+              <c>130.87</c>
+              <c>170.76</c>
+              <c>61.3</c>
+              <c>113.46</c>
+            </r>
+            <r>
+              <c>71</c>
+              <c>November</c>
+              <c>No</c>
+              <c>Non Easter</c>
+              <c>102555</c>
+              <c>86.92</c>
+              <c>148.38</c>
+              <c>165.12</c>
+              <c>59.54</c>
+              <c>115.58</c>
+            </r>
+            <r>
+              <c>72</c>
+              <c>November</c>
+              <c>No</c>
+              <c>Non Easter</c>
+              <c>106497</c>
+              <c>87.16</c>
+              <c>144.66</c>
+              <c>169.37</c>
+              <c>62.31</c>
+              <c>117.95</c>
+            </r>
+            <r>
+              <c>73</c>
+              <c>November</c>
+              <c>No</c>
+              <c>Non Easter</c>
+              <c>98641</c>
+              <c>91.17</c>
+              <c>142.1</c>
+              <c>171.59</c>
+              <c>62.31</c>
+              <c>114.11</c>
+            </r>
+            <r>
+              <c>74</c>
+              <c>December</c>
+              <c>Yes</c>
+              <c>Non Easter</c>
+              <c>101767</c>
+              <c>97.39</c>
+              <c>144.87</c>
+              <c>167.77</c>
+              <c>65.41</c>
+              <c>113.61</c>
+            </r>
+            <r>
+              <c>75</c>
+              <c>December</c>
+              <c>No</c>
+              <c>Non Easter</c>
+              <c>97404</c>
+              <c>97.37</c>
+              <c>136.59</c>
+              <c>169.52</c>
+              <c>60.18</c>
+              <c>122.57</c>
+            </r>
+            <r>
+              <c>76</c>
+              <c>December</c>
+              <c>No</c>
+              <c>Non Easter</c>
+              <c>104879</c>
+              <c>100.54</c>
+              <c>147.08</c>
+              <c>164.05</c>
+              <c>61.77</c>
+              <c>115.37</c>
+            </r>
+            <r>
+              <c>77</c>
+              <c>December</c>
+              <c>No</c>
+              <c>Non Easter</c>
+              <c>116989</c>
+              <c>100.51</c>
+              <c>157.84</c>
+              <c>170.55</c>
+              <c>66.28</c>
+              <c>121.19</c>
+            </r>
+            <r>
+              <c>78</c>
+              <c>January</c>
+              <c>No</c>
+              <c>Non Easter</c>
+              <c>106210</c>
+              <c>101.75</c>
+              <c>140.98</c>
+              <c>159.72</c>
+              <c>68.04</c>
+              <c>113.25</c>
+            </r>
+            <r>
+              <c>79</c>
+              <c>January</c>
+              <c>Yes</c>
+              <c>Non Easter</c>
+              <c>109141</c>
+              <c>97.5</c>
+              <c>133.81</c>
+              <c>173.53</c>
+              <c>66.8</c>
+              <c>113.75</c>
+            </r>
+            <r>
+              <c>80</c>
+              <c>January</c>
+              <c>No</c>
+              <c>Non Easter</c>
+              <c>101761</c>
+              <c>95.6</c>
+              <c>145.51</c>
+              <c>174.92</c>
+              <c>58.48</c>
+              <c>116.41</c>
+            </r>
+            <r>
+              <c>81</c>
+              <c>January</c>
+              <c>No</c>
+              <c>Non Easter</c>
+              <c>96756</c>
+              <c>94.95</c>
+              <c>131.15</c>
+              <c>176.31</c>
+              <c>60.56</c>
+              <c>119.22</c>
+            </r>
+            <r>
+              <c>82</c>
+              <c>January</c>
+              <c>No</c>
+              <c>Non Easter</c>
+              <c>106391</c>
+              <c>80.35</c>
+              <c>143.99</c>
+              <c>168</c>
+              <c>67.68</c>
+              <c>118.73</c>
+            </r>
+            <r>
+              <c>83</c>
+              <c>February</c>
+              <c>Yes</c>
+              <c>Non Easter</c>
+              <c>95902</c>
+              <c>96.39</c>
+              <c>129.79</c>
+              <c>175.5</c>
+              <c>61.37</c>
+              <c>119.89</c>
+            </r>
+            <r>
+              <c>84</c>
+              <c>February</c>
+              <c>No</c>
+              <c>Non Easter</c>
+              <c>100112</c>
+              <c>95.3</c>
+              <c>143.69</c>
+              <c>174.87</c>
+              <c>55.09</c>
+              <c>120.81</c>
+            </r>
+            <r>
+              <c>85</c>
+              <c>February</c>
+              <c>No</c>
+              <c>Non Easter</c>
+              <c>101789</c>
+              <c>99.82</c>
+              <c>145.48</c>
+              <c>178.68</c>
+              <c>64.07</c>
+              <c>122.26</c>
+            </r>
+            <r>
+              <c>86</c>
+              <c>February</c>
+              <c>No</c>
+              <c>Non Easter</c>
+              <c>88098</c>
+              <c>101.65</c>
+              <c>150.29</c>
+              <c>178.33</c>
+              <c>69.62</c>
+              <c>123.04</c>
+            </r>
+            <r>
+              <c>87</c>
+              <c>March</c>
+              <c>Yes</c>
+              <c>Non Easter</c>
+              <c>104613</c>
+              <c>100.11</c>
+              <c>140.26</c>
+              <c>169.55</c>
+              <c>62.56</c>
+              <c>122.31</c>
+            </r>
+            <r>
+              <c>88</c>
+              <c>March</c>
+              <c>No</c>
+              <c>Non Easter</c>
+              <c>100936</c>
+              <c>101.28</c>
+              <c>154.16</c>
+              <c>168.52</c>
+              <c>64.34</c>
+              <c>125.09</c>
+            </r>
+            <r>
+              <c>89</c>
+              <c>March</c>
+              <c>No</c>
+              <c>Non Easter</c>
+              <c>91363</c>
+              <c>105.27</c>
+              <c>153.54</c>
+              <c>174.65</c>
+              <c>61.69</c>
+              <c>126.4</c>
+            </r>
+            <r>
+              <c>90</c>
+              <c>March</c>
+              <c>No</c>
+              <c>Pre Easter</c>
+              <c>120247</c>
+              <c>98.89</c>
+              <c>158.89</c>
+              <c>153.36</c>
+              <c>63.28</c>
+              <c>122.76</c>
+            </r>
+            <r>
+              <c>91</c>
+              <c>April</c>
+              <c>Yes</c>
+              <c>Easter</c>
+              <c>169028</c>
+              <c>79.95</c>
+              <c>145.41</c>
+              <c>174.36</c>
+              <c>67.61</c>
+              <c>117.82</c>
+            </r>
+            <r>
+              <c>92</c>
+              <c>April</c>
+              <c>No</c>
+              <c>Post Easter</c>
+              <c>72379</c>
+              <c>99.67</c>
+              <c>152.34</c>
+              <c>172.67</c>
+              <c>65.06</c>
+              <c>112.25</c>
+            </r>
+            <r>
+              <c>93</c>
+              <c>April</c>
+              <c>No</c>
+              <c>Non Easter</c>
+              <c>85397</c>
+              <c>95.15</c>
+              <c>146.87</c>
+              <c>166.05</c>
+              <c>61.07</c>
+              <c>125.02</c>
+            </r>
+            <r>
+              <c>94</c>
+              <c>April</c>
+              <c>No</c>
+              <c>Non Easter</c>
+              <c>89626</c>
+              <c>96.68</c>
+              <c>156.44</c>
+              <c>153.85</c>
+              <c>66.3</c>
+              <c>126.3</c>
+            </r>
+            <r>
+              <c>95</c>
+              <c>April</c>
+              <c>No</c>
+              <c>Non Easter</c>
+              <c>94355</c>
+              <c>94.67</c>
+              <c>154.82</c>
+              <c>157.72</c>
+              <c>66.29</c>
+              <c>126.3</c>
+            </r>
+            <r>
+              <c>96</c>
+              <c>May</c>
+              <c>Yes</c>
+              <c>Non Easter</c>
+              <c>93297</c>
+              <c>103.79</c>
+              <c>154.72</c>
+              <c>159.86</c>
+              <c>65.29</c>
+              <c>124.82</c>
+            </r>
+            <r>
+              <c>97</c>
+              <c>May</c>
+              <c>No</c>
+              <c>Non Easter</c>
+              <c>89708</c>
+              <c>103.92</c>
+              <c>150.35</c>
+              <c>155.02</c>
+              <c>62.1</c>
+              <c>122.94</c>
+            </r>
+            <r>
+              <c>98</c>
+              <c>May</c>
+              <c>No</c>
+              <c>Non Easter</c>
+              <c>82399</c>
+              <c>104.5</c>
+              <c>146</c>
+              <c>150.82</c>
+              <c>54.69</c>
+              <c>126.04</c>
+            </r>
+            <r>
+              <c>99</c>
+              <c>May</c>
+              <c>No</c>
+              <c>Non Easter</c>
+              <c>89514</c>
+              <c>101.77</c>
+              <c>149.58</c>
+              <c>148.39</c>
+              <c>61.02</c>
+              <c>130.28</c>
+            </r>
+            <r>
+              <c>100</c>
+              <c>June</c>
+              <c>Yes</c>
+              <c>Non Easter</c>
+              <c>104256</c>
+              <c>88.12</c>
+              <c>144.7</c>
+              <c>147.29</c>
+              <c>58.56</c>
+              <c>118.73</c>
+            </r>
+          </Data>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxTextInput" />
+    </Node>
+    <Node ToolID="3">
+      <GuiSettings Plugin="Linear_Regression">
+        <Position x="270" y="126" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Value name="curPage">Home</Value>
+          <Value name="curTab">graphics</Value>
+          <Value name="standardize_pred">True</Value>
+          <Value name="internal_cv">True</Value>
+          <Value name="display_graphs">True</Value>
+          <Value name="set_seed_internal_cv">True</Value>
+          <Value name="set_seed_external_cv">True</Value>
+          <Value name="lambda_1se">True</Value>
+          <Value name="lambda_min">False</Value>
+          <Value name="Model Name">Linear_Regression_178</Value>
+          <Value name="Y Var">Cases</Value>
+          <Value name="X Vars">Month,First_Week,Easter,Egg_Pr,Beef_Pr,Pork_Pr,Chicken_Pr,Cereal_Pr</Value>
+          <Value name="Omit Constant">False</Value>
+          <Value name="Use Weights">False</Value>
+          <Value name="Weight Vec" />
+          <Value name="regularization">False</Value>
+          <Value name="alpha">0.5</Value>
+          <Value name="nfolds">5</Value>
+          <Value name="lambda">lambda_1se</Value>
+          <Value name="seed_internal_cv">1</Value>
+          <Value name="lambda_no_cv">0.5</Value>
+          <Value name="external_cv">False</Value>
+          <Value name="nfolds_external">5</Value>
+          <Value name="numberTrials">3</Value>
+          <Value name="external_seed_value">1</Value>
+          <Value name="graph.resolution">1x</Value>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Linear_Regression_178</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings Macro="Linear_Regression/Supporting_Macros/Linear_Regression.yxmc" EngineDll="Macro" EngineDllEntryPoint="Linear_Regression/Supporting_Macros/Linear_Regression.yxmc" />
+    </Node>
+    <Node ToolID="4">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="390" y="54" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFile>C:\Users\btoomey\AppData\Local\Temp\Engine_7000_2bbd9d35f48b4fb19f606c9ff44412db_\Engine_7560_775c28a18ff04afb974ce5074646799c_.yxdb</TempFile>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+    <Node ToolID="5">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="390" y="126" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFile>C:\Users\btoomey\AppData\Local\Temp\Engine_7000_2bbd9d35f48b4fb19f606c9ff44412db_\Engine_7560_03e576936c754a118a89c4b4d5d1606e_.yxdb</TempFile>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+    <Node ToolID="6">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="390" y="222" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFile>C:\Users\btoomey\AppData\Local\Temp\Engine_7000_2bbd9d35f48b4fb19f606c9ff44412db_\Engine_7560_e9ed1d79cbae45538bb955d8009aa6fd_.yxdb</TempFile>
+          <TempFileDataProfiling />
+          <Layout>
+            <ViewMode>Single</ViewMode>
+            <ViewSize value="100" />
+            <View1>
+              <DefaultTab>Report</DefaultTab>
+              <Hints>
+                <Table />
+              </Hints>
+            </View1>
+            <View2 />
+          </Layout>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+  </Nodes>
+  <Connections>
+    <Connection>
+      <Origin ToolID="2" Connection="Output" />
+      <Destination ToolID="3" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="3" Connection="Output" />
+      <Destination ToolID="4" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="3" Connection="Reports" />
+      <Destination ToolID="5" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="3" Connection="Interactive Report" />
+      <Destination ToolID="6" Connection="Input" />
+    </Connection>
+  </Connections>
+  <Properties>
+    <Memory default="True" />
+    <GlobalRecordLimit value="0" />
+    <TempFiles default="True" />
+    <Annotation on="True" includeToolName="False" />
+    <ConvErrorLimit value="10" />
+    <ConvErrorLimit_Stop value="False" />
+    <CancelOnError value="False" />
+    <DisableBrowse value="False" />
+    <EnablePerformanceProfiling value="False" />
+    <DisableAllOutput value="False" />
+    <ShowAllMacroMessages value="True" />
+    <ShowConnectionStatusIsOn value="True" />
+    <ShowConnectionStatusOnlyWhenRunning value="True" />
+    <ZoomLevel value="0" />
+    <LayoutType>Horizontal</LayoutType>
+    <MetaInfo>
+      <NameIsFileName value="True" />
+      <Name>Test_linear_w_integer_target</Name>
+      <Description />
+      <RootToolName />
+      <ToolVersion />
+      <ToolInDb value="False" />
+      <CategoryName />
+      <SearchTags />
+      <Author />
+      <Company />
+      <Copyright />
+      <DescriptionLink actual="" displayed="" />
+      <Example>
+        <Description />
+        <File />
+      </Example>
+    </MetaInfo>
+    <Events>
+      <Enabled value="True" />
+    </Events>
+  </Properties>
+</AlteryxDocument>
