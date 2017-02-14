@@ -10,7 +10,7 @@
 #' ### Read Configuration 
 #'
 #'
-#' Let me just add some comments for developing webhook handler - 2/14/2017
+#' Let me just add some comments for testing/developing webhook handler - 2/14/2017
 #' 
 #' 
 ## DO NOT MODIFY: Auto Inserted by AlteryxRhelper ----
